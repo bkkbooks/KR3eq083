@@ -17,7 +17,7 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 1, filename: KR3eq083_001-jc.yaml, hash: 'sha256:7fbcbcb2fe5105f6030ac3f105617d8eba6101737a9e0ee8b5a7373fd9fdb38d'}
+  - {seq: 1, filename: KR3eq083_001-jc.yaml, hash: 'sha256:c58204e1ba7aca8b82fc9840e26b654ca0222c6aae00213e24741f0be1c20ba2'}
   - {seq: 2, filename: KR3eq083_002-jc.yaml, hash: 'sha256:cfbb85a9706d9abd3f573d634a760e52c34926cdc36ed1da5c6fa11cffa2c4cf'}
   - {seq: 3, filename: KR3eq083_003-jc.yaml, hash: 'sha256:43e59d7cddf340ee63b163a05df1fd28c63be6adbd8fc6894ff6949a4ccb10d2'}
   - {seq: 4, filename: KR3eq083_004-jc.yaml, hash: 'sha256:0a7a7779831d0d595b0bedcb3ab1248d7891f8723275063c7fc3aac0008b6d5b'}
@@ -25,7 +25,7 @@ assets:
   - {seq: 6, filename: KR3eq083_006-jc.yaml, hash: 'sha256:80fd35bba5259a8af6c281ff1bd0e71d61c078e86ae9bea2104d34e80eeb991b'}
   - {seq: 7, filename: KR3eq083_007-jc.yaml, hash: 'sha256:34c1f8eaae76970dbf0f9dee554995986cd03ea63acc186d28f52945bdb1a0eb'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3eq083_001-jc.markers.yaml, hash: 'sha256:a14738077430b63abdb82221c7a58506e1b360502bc47f2d505ce27804830cb4'}
+  - {seq: 1, role: markers, filename: assets/KR3eq083_001-jc.markers.yaml, hash: 'sha256:fe9a5fc05ddbd01fc4a2d89a88850f6605736da026c9101993e8f0ec329fe9c8'}
   - {seq: 2, role: markers, filename: assets/KR3eq083_002-jc.markers.yaml, hash: 'sha256:21a493648ad40a631f12adfa17b9046be48563da907c48bfe6585025d60517f8'}
   - {seq: 3, role: markers, filename: assets/KR3eq083_003-jc.markers.yaml, hash: 'sha256:2a3a197644b6fe0a6ddccd08252c87154eafd5cb4209926a3349ba662c08e472'}
   - {seq: 4, role: markers, filename: assets/KR3eq083_004-jc.markers.yaml, hash: 'sha256:7b942ca2bd03f108bb3ed5974b0e4c9f2a75c6d1b29045907b1d643f07171551'}
@@ -37,7 +37,7 @@ table_of_contents:
     seq: 1
     marker_id: KR3eq083_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 374
   label: 自序
@@ -1543,4 +1543,4 @@ table_of_contents:
   label: 與友條論讀傷寒論法
   type: section
   level: 3
-hash: sha256:636fe28f5e6ee8329234ecc9644d097bf663219f8dcabad7ef10c2bac8c2d3ce
+hash: sha256:264d69657aac32beb41ebcd2562813cfefec25dc0196376aac9c06c1cf09e631
